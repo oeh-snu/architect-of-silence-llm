@@ -1,0 +1,2 @@
+# The SHA-256 of each file is the published digest: never convert line endings.
+*.uuids.txt -text
